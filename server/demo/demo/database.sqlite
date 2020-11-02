@@ -1,0 +1,13 @@
+CREATE TABLE cars(
+	column1 datatype,
+	column2 datatype,
+	column3 datatype,
+	column4 datatype,
+	PRIMARY KEY(column1)
+);
+
+SQL> CREATE TABLE CARS(
+	ID INT NOT NULL,
+	NAME VARCHAR (20) NOT NULL,
+	PRIMARY KEY (ID)
+);
